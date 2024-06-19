@@ -1,3 +1,5 @@
+Name: Nsonera Hirwa Dylan
+ID:   25520
 ![image](https://github.com/hdylan12/Calculator_App/assets/91986466/7b28de10-c211-47a5-b24c-5e025db8cc70)# calculator_app
 
 Calc UI
